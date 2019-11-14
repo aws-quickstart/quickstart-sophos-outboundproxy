@@ -35,8 +35,3 @@ tests:
       - us-east-2
       - us-west-1
       - us-west-2
-  quickstart-sophos-outboundproxyt1-m4:
-    parameter_input: sophos-outbound-proxy-params-m4.json
-    template_file: sophos.template
-    regions:
-      - ap-northeast-2
